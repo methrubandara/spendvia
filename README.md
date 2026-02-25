@@ -115,7 +115,7 @@ Early-stage — active development. Core platform is functional with real databa
 
 ## Team
 
-Built by [Methru Bandara](methrubandara.com) and [Abhilash Gundala](https://www.notion.so/Abhi-s-Portfolio-1fff6066794880ff9193fc847cf99386)
+Built by [Methru Bandara](https://www.methrubandara.com/) and [Abhilash Gundala](https://www.notion.so/Abhi-s-Portfolio-1fff6066794880ff9193fc847cf99386)
 
 ---
 
